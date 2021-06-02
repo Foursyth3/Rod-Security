@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="profile" href="http://gmpg.org/xfn/11">
+      <title>Rod security | Home</title>
+      <meta name='robots' content='max-image-preview:large' />
+      <!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Rod Security" />
+      <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+      <link rel='dns-prefetch' href='//s.w.org' />
+ 
+      <style type="text/css">
+         img.wp-smiley,
+         img.emoji {
+         display: inline !important;
+         border: none !important;
+         box-shadow: none !important;
+         height: 1em !important;
+         width: 1em !important;
+         margin: 0 .07em !important;
+         vertical-align: -0.1em !important;
+         background: none !important;
+         padding: 0 !important;
+         }
+      </style>
+      <link rel='stylesheet' id='sydney-bootstrap-css'  href='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+      <link rel='stylesheet' id='wp-block-library-css'  href='https://www.dtssecurityservices.co.za/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+      <link rel='stylesheet' id='contact-form-7-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5' type='text/css' media='all' />
+      <link rel='stylesheet' id='easy-facebook-likebox-plugin-styles-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.3.8' type='text/css' media='all' />
+      <link rel='stylesheet' id='easy-facebook-likebox-font-awesome-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/css/font-awesome.css?ver=4.3.8' type='text/css' media='all' />
+      <link rel='stylesheet' id='easy-facebook-likebox-animate-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/css/animate.css?ver=4.3.8' type='text/css' media='all' />
+      <link rel='stylesheet' id='easy-facebook-likebox-popup-styles-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/popup/magnific-popup.css?ver=4.3.8' type='text/css' media='all' />
+      <link rel='stylesheet' id='siteorigin-panels-front-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.9.7' type='text/css' media='all' />
+      <link rel='stylesheet' id='parent-style-css'  href='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/style.css?ver=5.7.2' type='text/css' media='all' />
+      <link rel='stylesheet' id='sydney-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A400%2C500%2C600' type='text/css' media='all' />
+      <link rel='stylesheet' id='sydney-style-css'  href='https://www.dtssecurityservices.co.za/wp-content/themes/sydney-child/style.css?ver=20180710' type='text/css' media='all' />
+      <style id='sydney-style-inline-css' type='text/css'>
+         .site-title { font-size:32px; }
+         .site-description { font-size:16px; }
+         #mainnav ul li a { font-size:14px; }
+         h1 { font-size:52px; }
+         h2 { font-size:42px; }
+         h3 { font-size:32px; }
+         h4 { font-size:25px; }
+         h5 { font-size:20px; }
+         h6 { font-size:18px; }
+         body { font-size:16px; }
+         .single .hentry .title-post { font-size:36px; }
+         .header-image { background-size:cover;}
+         .header-image { height:300px; }
+         .widget-area .widget_fp_social a,#mainnav ul li a:hover, .sydney_contact_info_widget span, .roll-team .team-content .name,.roll-team .team-item .team-pop .team-social li:hover a,.roll-infomation li.address:before,.roll-infomation li.phone:before,.roll-infomation li.email:before,.roll-testimonials .name,.roll-button.border,.roll-button:hover,.roll-icon-list .icon i,.roll-icon-list .content h3 a:hover,.roll-icon-box.white .content h3 a,.roll-icon-box .icon i,.roll-icon-box .content h3 a:hover,.switcher-container .switcher-icon a:focus,.go-top:hover,.hentry .meta-post a:hover,#mainnav > ul > li > a.active, #mainnav > ul > li > a:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .text-color, .social-menu-widget a, .social-menu-widget a:hover, .archive .team-social li a, a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,.classic-alt .meta-post a,.single .hentry .meta-post a { color:#213d0e}
+         .reply,.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.project-filter li a.active, .project-filter li a:hover,.preloader .pre-bounce1, .preloader .pre-bounce2,.roll-team .team-item .team-pop,.roll-progress .progress-animate,.roll-socials li a:hover,.roll-project .project-item .project-pop,.roll-project .project-filter li.active,.roll-project .project-filter li:hover,.roll-button.light:hover,.roll-button.border:hover,.roll-button,.roll-icon-box.white .icon,.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span,.go-top,.bottom .socials li:hover a,.sidebar .widget:before,.blog-pagination ul li.active,.blog-pagination ul li:hover a,.content-area .hentry:after,.text-slider .maintitle:after,.error-wrap #search-submit:hover,#mainnav .sub-menu li:hover > a,#mainnav ul li ul:after, button, input[type="button"], input[type="reset"], input[type="submit"], .panel-grid-cell .widget-title:after { background-color:#213d0e}
+         .roll-socials li a:hover,.roll-socials li a,.roll-button.light:hover,.roll-button.border,.roll-button,.roll-icon-list .icon,.roll-icon-box .icon,.owl-theme .owl-controls .owl-page span,.comment .comment-detail,.widget-tags .tag-list a:hover,.blog-pagination ul li,.hentry blockquote,.error-wrap #search-submit:hover,textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus, button, input[type="button"], input[type="reset"], input[type="submit"], .archive .team-social li a { border-color:#213d0e}
+         .site-header.float-header { background-color: #127860 ;}
+         @media only screen and (max-width: 1024px) { .site-header { background-color: #127860 ;}}
+         .site-title a, .site-title a:hover { color:#ffffff}
+         .site-description { color:#ffffff}
+         #mainnav ul li a, #mainnav ul li::before { color:#ffffff}
+         #mainnav .sub-menu li a { color:#ffffff}
+         #mainnav .sub-menu li a { background:#1c1c1c}
+         .text-slider .maintitle, .text-slider .subtitle { color:#ffffff}
+         body { color:#000000}
+         #secondary { background-color:#ffffff}
+         #secondary, #secondary a, #secondary .widget-title { color:#cca610}
+         .footer-widgets { background-color:#252525}
+         .btn-menu { color:#ffffff}
+         #mainnav ul li a:hover { color: #127860 }
+         .site-footer { background-color: #127860 }
+         .site-footer,.site-footer a { color:#000000}
+         .overlay { background-color: #127860 }
+         .page-wrap { padding-top:83px;}
+         .page-wrap { padding-bottom:100px;}
+         @media only screen and (max-width: 1025px) {		
+         .mobile-slide {
+         display: block;
+         }
+         .slide-item {
+         background-image: none !important;
+         }
+         .header-slider {
+         }
+         .slide-item {
+         height: auto !important;
+         }
+         .slide-inner {
+         min-height: initial;
+         } 
+         }
+         @media only screen and (max-width: 780px) { 
+         h1 { font-size: 32px;}
+         h2 { font-size: 28px;}
+         h3 { font-size: 22px;}
+         h4 { font-size: 18px;}
+         h5 { font-size: 16px;}
+         h6 { font-size: 14px;}
+         }
+      </style>
+      <link rel='stylesheet' id='sydney-font-awesome-css'  href='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=5.7.2' type='text/css' media='all' />
+      <!--[if lte IE 9]>
+      <link rel='stylesheet' id='sydney-ie9-css'  href='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/css/ie9.css?ver=5.7.2' type='text/css' media='all' />
+      <![endif]-->
+      <link rel='stylesheet' id='slb_core-css'  href='https://www.dtssecurityservices.co.za/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.7.0' type='text/css' media='all' />
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/popup/jquery.magnific-popup.min.js?ver=4.3.8' id='easy-facebook-likebox-popup-script-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/js/jquery.cookie.js?ver=4.3.8' id='easy-facebook-likebox-cookie-script-js'></script>
+      <script type='text/javascript' id='easy-facebook-likebox-public-script-js-extra'>
+         /* <![CDATA[ */
+         var public_ajax = {"ajax_url":"https:\/\/www.dtssecurityservices.co.za\/wp-admin\/admin-ajax.php"};
+         var public_ajax = {"ajax_url":"https:\/\/www.dtssecurityservices.co.za\/wp-admin\/admin-ajax.php"};
+         /* ]]> */
+      </script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/js/public.js?ver=4.3.8' id='easy-facebook-likebox-public-script-js'></script>
+      <script type='text/javascript' id='siteorigin-panels-front-styles-js-extra'>
+         /* <![CDATA[ */
+         var panelsStyles = {"fullContainer":"body"};
+         /* ]]> */
+      </script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/plugins/siteorigin-panels/js/styling-297.min.js?ver=2.9.7' id='siteorigin-panels-front-styles-js'></script>
+      
+      <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+      <style type="text/css" media="all"
+         id="siteorigin-panels-layouts-head">/* Layout 10 */ #pgc-10-0-0 , #pgc-10-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-10 #panel-10-0-0-0 , #pl-10 #panel-10-1-0-0 {  } #pg-10-0 , #pl-10 .so-panel , #pl-10 .so-panel:last-child { margin-bottom:0px } #pg-10-0.panel-no-style, #pg-10-0.panel-has-style > .panel-row-style , #pg-10-1.panel-no-style, #pg-10-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pg-10-1> .panel-row-style { background-color:#213d0e;padding:60px } @media (max-width:780px){ #pg-10-0.panel-no-style, #pg-10-0.panel-has-style > .panel-row-style , #pg-10-1.panel-no-style, #pg-10-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-10-0 .panel-grid-cell , #pg-10-1 .panel-grid-cell { margin-right:0 } #pg-10-0 .panel-grid-cell , #pg-10-1 .panel-grid-cell { width:100% } #pl-10 .panel-grid-cell { padding:0 } #pl-10 .panel-grid .panel-grid-cell-empty { display:none } #pl-10 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5c0e757a40af9 */ #pgc-w5c0e757a40af9-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5c0e757a40af9 #panel-w5c0e757a40af9-0-0-0 , #pl-w5c0e757a40af9 #panel-w5c0e757a40af9-1-0-0 , #pl-w5c0e757a40af9 #panel-w5c0e757a40af9-1-1-0 {  } #pg-w5c0e757a40af9-0 , #pl-w5c0e757a40af9 .so-panel , #pl-w5c0e757a40af9 .so-panel:last-child { margin-bottom:0px } #pgc-w5c0e757a40af9-1-0 , #pgc-w5c0e757a40af9-1-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pg-w5c0e757a40af9-0> .panel-row-style , #pg-w5c0e757a40af9-1> .panel-row-style { padding:0px } #pg-w5c0e757a40af9-0.panel-no-style, #pg-w5c0e757a40af9-0.panel-has-style > .panel-row-style , #pg-w5c0e757a40af9-1.panel-no-style, #pg-w5c0e757a40af9-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #panel-w5c0e757a40af9-0-0-0> .panel-widget-style { color:#ff0000 } #pgc-w5c0e757a40af9-1-0 { align-self:auto } #panel-w5c0e757a40af9-1-0-0> .panel-widget-style { background-color: rgba(0,0,0,0.3);border:1px solid #d38f06 } #panel-w5c0e757a40af9-1-1-0> .panel-widget-style { background-color: rgba(0,0,0,0.3);border:1px solid #d38f06;color:#ffffff } @media (max-width:780px){ #pg-w5c0e757a40af9-0.panel-no-style, #pg-w5c0e757a40af9-0.panel-has-style > .panel-row-style , #pg-w5c0e757a40af9-1.panel-no-style, #pg-w5c0e757a40af9-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5c0e757a40af9-0 .panel-grid-cell , #pg-w5c0e757a40af9-1 .panel-grid-cell { margin-right:0 } #pg-w5c0e757a40af9-0 .panel-grid-cell , #pg-w5c0e757a40af9-1 .panel-grid-cell { width:100% } #pgc-w5c0e757a40af9-1-0 , #pl-w5c0e757a40af9 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pl-w5c0e757a40af9 .panel-grid-cell { padding:0 } #pl-w5c0e757a40af9 .panel-grid .panel-grid-cell-empty { display:none }  } </style>
+      <style type="text/css" id="wp-custom-css">
+         widget_sydney_latest_news .roll-button {
+         display: none;
+         }
+         body > .preloader{ display: none; }
+         .widget-area .widget {
+         padding-top: 0;
+         }
+         .site-info {
+         text-align: center;
+         }
+         #gallery-1 {text-align: center;}
+         figure.gallery-item {margin: 5px; width: 267px; display: inline-block;}		
+      </style>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <style>
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .topnav {
+        overflow: hidden;
+        background-color: #333;
+      }
+
+      .topnav a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+
+      .topnav a.active {
+        background-color: #04AA6D;
+        color: white;
+      }
+
+      .topnav .icon {
+        display: none;
+      }
+
+      @media screen and (max-width: 600px) {
+        .topnav a:not(:first-child) {display: none;}
+        .topnav a.icon {
+          float: right;
+          display: block;
+        }
+      }
+
+      @media screen and (max-width: 600px) {
+        .topnav.responsive {position: relative;}
+        .topnav.responsive .icon {
+          position: absolute;
+          right: 0;
+          top: 0;
+        }
+        .topnav.responsive a {
+          float: none;
+          display: block;
+          text-align: left;
+        }
+      }
+      </style>
+   </head>
+   <body class="home page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php page page-id-10 siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home">
+      <div class="preloader">
+         <div class="spinner">
+            <div class="pre-bounce1"></div>
+            <div class="pre-bounce2"></div>
+         </div>
+      </div>
+      <div id="page" class="hfeed site">
+         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+         <header id="masthead" class="site-header" role="banner">
+            <div class="header-wrap">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-8 col-sm-4 col-xs-12">
+                        <div class="btn-menu"></div>
+                        <nav id="mainnav" class="mainnav" role="navigation">
+                           <div class="topnav" id="myTopnav">
+                             <a href="#home" class="active">Home</a>
+                             <a href="about">About</a>
+                             <a href="#news">News</a>
+                             <a href="#contact">Contact</a>
+                             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                               <i class="fa fa-bars"></i>
+                             </a>
+                           </div>
+                           <script>
+                           function myFunction() {
+                             var x = document.getElementById("myTopnav");
+                             if (x.className === "topnav") {
+                               x.className += " responsive";
+                             } else {
+                               x.className = "topnav";
+                             }
+                           }
+                           </script>
+                        </nav>
+                        <!-- #site-navigation -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </header>
+         <!-- #masthead -->
+         <div class="sydney-hero-area">
+            <div id="slideshow" class="header-slider" data-speed="6500" data-mobileslider="responsive">
+               <div class="slides-container">
+                  <div class="slide-item slide-item-1" style="background-image:url('https://raw.githubusercontent.com/xioton-spec/RodSec/master/img/science-in-hd-1WBN-JKSmKI-unsplash.jpg');">
+                     <img class="mobile-slide preserve" src="https://raw.githubusercontent.com/xioton-spec/RodSec/master/img/science-in-hd-1WBN-JKSmKI-unsplash.jpg" alt=""/>
+                     <div class="slide-inner">
+                        <div class="contain animated fadeInRightBig text-slider">
+                           <h2 class="maintitle">Add text here</h2>
+                           <p class="subtitle"></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="slide-item slide-item-2" style="background-image:url('https://raw.githubusercontent.com/xioton-spec/RodSec/master/img/possessed-photography-U3sOwViXhkY-unsplash.jpg');">
+                     <img class="mobile-slide preserve" src="https://raw.githubusercontent.com/xioton-spec/RodSec/master/img/possessed-photography-U3sOwViXhkY-unsplash.jpg" alt=""/>
+                     <div class="slide-inner">
+                        <div class="contain animated fadeInRightBig text-slider">
+                           <h2 class="maintitle">Add text here</h2>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="slide-item slide-item-3" style="background-image:url('https://raw.githubusercontent.com/xioton-spec/RodSec/master/img/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg');">
+                     <img class="mobile-slide preserve" src="https://raw.githubusercontent.com/xioton-spec/RodSec/master/img/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg" alt=""/>
+                     <div class="slide-inner">
+                        <div class="contain animated fadeInRightBig text-slider">
+                           <h2 class="maintitle">Add text here</h2>
+                           <p class="subtitle"></p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="header-image">
+               <div class="overlay"></div>
+            </div>
+         </div>
+         <div id="content" class="page-wrap">
+            <div class="container content-wrapper">
+               <div class="row">
+                  <div id="primary" class="fp-content-area">
+                     <main id="main" class="site-main" role="main">
+                        <div class="entry-content">
+                           <div id="pl-10"  class="panel-layout" >
+                              <div id="pg-10-0"  class="panel-grid panel-has-style" >
+                                 <div style="padding: 100px 0; " data-overlay="true" data-overlay-color="#000000" class="panel-row-style panel-row-style-for-10-0" >
+                                    <div id="pgc-10-0-0"  class="panel-grid-cell" >
+                                       <div id="panel-10-0-0-0" class="so-panel widget widget_sydney_services_type_a sydney_services_widget panel-first-child panel-last-child" data-index="0" >
+                                          <div style="text-align: left;" data-title-color="#443f3f" data-headings-color="#443f3f" class="panel-widget-style panel-widget-style-for-10-0-0-0" >
+                                             <h3 class="widget-title">Who are we</h3>
+                                             <div class="service col-md-4">
+                                                <div class="roll-icon-box">
+                                                   <div class="icon">
+                                                      <i class="fa fa-lock" aria-hidden="true"></i>
+                                                   </div>
+                                                   <div class="content">
+                                                      <h3>
+                                                         We are here to help you.									
+                                                      </h3>
+                                                      <p>We provide services, and focus in the field of security, investigation and protection, with over 20 years in the field Rod security group has acquired various projects, both from the private sector and from the state.</p>
+                                                   </div>
+                                                   <!--.info-->	
+                                                </div>
+                                             </div>
+                                             <div class="service col-md-4">
+                                                <div class="roll-icon-box">
+                                                   <div class="icon">
+                                                      <i class="fa fa-user-secret"></i>																	
+                                                   </div>
+                                                   <div class="content">
+                                                      <h3>
+                                                         We want you to be safe
+                                                      </h3>
+                                                      <p>We are a complying company, with are registered with PSIRAandwe are certified with certificates in GRADE E-B and GRADE E-A Security Training</p>
+                                                   </div>
+                                                   <!--.info-->	
+                                                </div>
+                                             </div>
+                                             <div class="service col-md-4">
+                                                <div class="roll-icon-box">
+                                                   <div class="icon">
+                                                      <i class="fa fa-shield"></i>																			
+                                                   </div>
+                                                   <div class="content">
+                                                      <h3>
+                                                         Guarding Services																			
+                                                      </h3>
+                                                      <p>We are certified in competence of handling of handguns, shotguns, self-loading riffles and manual-riffles.</p>
+                                                   </div>
+                                                   <!--.info-->	
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <!-- .entry-content -->
+                     </main>
+                     <!-- #main -->
+                  </div>
+                  <!-- #primary -->
+               </div>
+            </div>
+         </div>
+         <!-- #content -->
+         <a class="go-top"><i class="fa fa-angle-up"></i></a>
+         <footer id="colophon" class="site-footer" role="contentinfo">
+            <div class="site-info container">
+               <a href="">Copyright 2002 © Rod Security | Website by Tshepo and Lebogang Masia </a>
+            </div>
+            <!-- .site-info -->
+         </footer>
+         <!-- #colophon -->
+      </div>
+      <!-- #page -->
+      <style type="text/css" media="all"
+         id="siteorigin-panels-layouts-footer">/* Layout w5c0e757a40af9 */ #pgc-w5c0e757a40af9-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-w5c0e757a40af9 #panel-w5c0e757a40af9-0-0-0 , #pl-w5c0e757a40af9 #panel-w5c0e757a40af9-1-0-0 , #pl-w5c0e757a40af9 #panel-w5c0e757a40af9-1-1-0 {  } #pg-w5c0e757a40af9-0 , #pl-w5c0e757a40af9 .so-panel , #pl-w5c0e757a40af9 .so-panel:last-child { margin-bottom:0px } #pgc-w5c0e757a40af9-1-0 , #pgc-w5c0e757a40af9-1-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pg-w5c0e757a40af9-0> .panel-row-style , #pg-w5c0e757a40af9-1> .panel-row-style { padding:0px } #pg-w5c0e757a40af9-0.panel-no-style, #pg-w5c0e757a40af9-0.panel-has-style > .panel-row-style , #pg-w5c0e757a40af9-1.panel-no-style, #pg-w5c0e757a40af9-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #panel-w5c0e757a40af9-0-0-0> .panel-widget-style { color:#ff0000 } #pgc-w5c0e757a40af9-1-0 { align-self:auto } #panel-w5c0e757a40af9-1-0-0> .panel-widget-style { background-color: rgba(0,0,0,0.3);border:1px solid #d38f06 } #panel-w5c0e757a40af9-1-1-0> .panel-widget-style { background-color: rgba(0,0,0,0.3);border:1px solid #d38f06;color:#ffffff } @media (max-width:780px){ #pg-w5c0e757a40af9-0.panel-no-style, #pg-w5c0e757a40af9-0.panel-has-style > .panel-row-style , #pg-w5c0e757a40af9-1.panel-no-style, #pg-w5c0e757a40af9-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5c0e757a40af9-0 .panel-grid-cell , #pg-w5c0e757a40af9-1 .panel-grid-cell { margin-right:0 } #pg-w5c0e757a40af9-0 .panel-grid-cell , #pg-w5c0e757a40af9-1 .panel-grid-cell { width:100% } #pgc-w5c0e757a40af9-1-0 , #pl-w5c0e757a40af9 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pl-w5c0e757a40af9 .panel-grid-cell { padding:0 } #pl-w5c0e757a40af9 .panel-grid .panel-grid-cell-empty { display:none }  } </style>
+         <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5' id='contact-form-7-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/js/scripts.js?ver=5.7.2' id='sydney-scripts-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/js/main.min.js?ver=20180716' id='sydney-main-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115' id='sydney-skip-link-focus-fix-js'></script>
+      <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+      
+   </body>
+</html>
