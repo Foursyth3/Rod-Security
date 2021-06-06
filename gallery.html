@@ -1,10 +1,69 @@
 <!DOCTYPE html>
-<html lang="en-US">
-   <head>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+img {
+  border-radius: 8px;
+}
+</style>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="profile" href="http://gmpg.org/xfn/11">
-      <title>Rod security | Home</title>
+      <title>Rod security | Gallery</title>
       <meta name='robots' content='max-image-preview:large' />
       <!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
       <meta property="og:locale" content="en_US" />
@@ -74,7 +133,7 @@
          .overlay { background-color: #127860 }
          .page-wrap { padding-top:83px;}
          .page-wrap { padding-bottom:100px;}
-         @media only screen and (max-width: 1025px) {		
+         @media only screen and (max-width: 1025px) {   
          .mobile-slide {
          display: block;
          }
@@ -137,7 +196,7 @@
          text-align: center;
          }
          #gallery-1 {text-align: center;}
-         figure.gallery-item {margin: 5px; width: 267px; display: inline-block;}		
+         figure.gallery-item {margin: 5px; width: 267px; display: inline-block;}    
       </style>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <style>
@@ -197,17 +256,11 @@
         }
       }
       </style>
-   </head>
-   <body class="home page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php page page-id-10 siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home">
-      <div class="preloader">
-         <div class="spinner">
-            <div class="pre-bounce1"></div>
-            <div class="pre-bounce2"></div>
-         </div>
-      </div>
-      <div id="page" class="hfeed site">
-         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-         <header id="masthead" class="site-header" role="banner">
+
+</head>
+<body>
+
+  <header id="masthead" class="site-header" role="banner">
             <div class="header-wrap">
                <div class="container">
                   <div class="row">
@@ -215,9 +268,9 @@
                         <div class="btn-menu"></div>
                         <nav id="mainnav" class="mainnav" role="navigation">
                            <div class="topnav" id="myTopnav">
-                             <a href="index.html" class="active">Home</a>
+                             <a href="index.html">Home</a>
                              <a href="about.html">About</a>
-                             <a href="gallery.html">Gallery</a>
+                             <a href="gallery.html" class="active">Gallery</a>
                              <a href="contact.html">Contact</a>
                              <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                                <i class="fa fa-bars"></i>
@@ -240,115 +293,36 @@
                </div>
             </div>
          </header>
-         <!-- #masthead -->
-         <div class="sydney-hero-area">
-            <div id="slideshow" class="header-slider" data-speed="6500" data-mobileslider="responsive">
-               <div class="slides-container">
-                  <div class="slide-item slide-item-1" style="background-image:url('/home/foursyth3/Pictures/Rod Security/IMG-20210605-WA0006.jpg');">
-                     <img class="mobile-slide preserve" src="/home/foursyth3/Pictures/Rod Security/IMG-20210605-WA0006.jpg" alt=""/>
-                     <div class="slide-inner">
-                        <div class="contain animated fadeInRightBig text-slider">
-                           <h2 class="maintitle">Add text here</h2>
-                           <p class="subtitle"></p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="slide-item slide-item-2" style="background-image:url('/home/foursyth3/Pictures/Rod Security/img0002.png');">
-                     <img class="mobile-slide preserve" src="/home/foursyth3/Pictures/img0002.png" alt=""/>
-                     <div class="slide-inner">
-                        <div class="contain animated fadeInRightBig text-slider">
-                           <h2 class="maintitle">Add text here</h2>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="slide-item slide-item-3" style="background-image:url('/home/foursyth3/Pictures/Rod Security/img0003.png');">
-                     <img class="mobile-slide preserve" src="/home/foursyth3/Pictures/Rod Security/img0003.png" alt=""/>
-                     <div class="slide-inner">
-                        <div class="contain animated fadeInRightBig text-slider">
-                           <h2 class="maintitle">Add text here</h2>
-                           <p class="subtitle"></p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="header-image">
-               <div class="overlay"></div>
-            </div>
-         </div>
-         <div id="content" class="page-wrap">
-            <div class="container content-wrapper">
-               <div class="row">
-                  <div id="primary" class="fp-content-area">
-                     <main id="main" class="site-main" role="main">
-                        <div class="entry-content">
-                           <div id="pl-10"  class="panel-layout" >
-                              <div id="pg-10-0"  class="panel-grid panel-has-style" >
-                                 <div style="padding: 100px 0; " data-overlay="true" data-overlay-color="#000000" class="panel-row-style panel-row-style-for-10-0" >
-                                    <div id="pgc-10-0-0"  class="panel-grid-cell" >
-                                       <div id="panel-10-0-0-0" class="so-panel widget widget_sydney_services_type_a sydney_services_widget panel-first-child panel-last-child" data-index="0" >
-                                          <div style="text-align: left;" data-title-color="#443f3f" data-headings-color="#443f3f" class="panel-widget-style panel-widget-style-for-10-0-0-0" >
-                                             <h3 class="widget-title">Who are we</h3>
-                                             <div class="service col-md-4">
-                                                <div class="roll-icon-box">
-                                                   <div class="icon">
-                                                      <i class="fa fa-lock" aria-hidden="true"></i>
-                                                   </div>
-                                                   <div class="content">
-                                                      <h3>
-                                                         We are here to help you.									
-                                                      </h3>
-                                                      <p>We provide services, and focus in the field of security, investigation and protection, with over 20 years in the field Rod security group has acquired various projects, both from the private sector and from the state.</p>
-                                                   </div>
-                                                   <!--.info-->	
-                                                </div>
-                                             </div>
-                                             <div class="service col-md-4">
-                                                <div class="roll-icon-box">
-                                                   <div class="icon">
-                                                      <i class="fa fa-user-secret"></i>																	
-                                                   </div>
-                                                   <div class="content">
-                                                      <h3>
-                                                         We want you to be safe
-                                                      </h3>
-                                                      <p>We are a complying company, with are registered with PSIRAandwe are certified with certificates in GRADE E-B and GRADE E-A Security Training</p>
-                                                   </div>
-                                                   <!--.info-->	
-                                                </div>
-                                             </div>
-                                             <div class="service col-md-4">
-                                                <div class="roll-icon-box">
-                                                   <div class="icon">
-                                                      <i class="fa fa-shield"></i>																			
-                                                   </div>
-                                                   <div class="content">
-                                                      <h3>
-                                                         Guarding Services																			
-                                                      </h3>
-                                                      <p>We are certified in competence of handling of handguns, shotguns, self-loading riffles and manual-riffles.</p>
-                                                   </div>
-                                                   <!--.info-->	
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- .entry-content -->
-                     </main>
-                     <!-- #main -->
-                  </div>
-                  <!-- #primary -->
-               </div>
-            </div>
-         </div>
-         <!-- #content -->
-         <a class="go-top"><i class="fa fa-angle-up"></i></a>
-         <footer id="colophon" class="site-footer" role="contentinfo">
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="/home/foursyth3/Apps/RodSec/img/img0001.png" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/img0002.png" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/img0003.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0008.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0009.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0010.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0011.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0012.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0013.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0014.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0015.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0016.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0018.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0022.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0023.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0024.jpg" style="width:100%">
+    <img src="/home/foursyth3/Apps/RodSec/img/IMG-20210605-WA0025.jpg" style="width:100%">
+  </div>
+</div>
+
+<footer id="colophon" class="site-footer" role="contentinfo">
             <div class="site-info container">
                <a href="">Copyright 2002 © Rod Security | Website by TLM </a>
             </div>
@@ -365,5 +339,5 @@
       <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115' id='sydney-skip-link-focus-fix-js'></script>
       <script type='text/javascript' src='https://www.dtssecurityservices.co.za/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
       
-   </body>
+</body>
 </html>
